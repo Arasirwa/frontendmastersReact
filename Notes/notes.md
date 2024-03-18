@@ -30,3 +30,7 @@ To start, run ``` npm run dev```
 initiate react using the following command ``` npm i  react@18.2.0 react-dom@18.2.0 ```
 
 #
+
+### React querrying
+
+use ``` npm i @tanstack/react-query@4.10.1```
